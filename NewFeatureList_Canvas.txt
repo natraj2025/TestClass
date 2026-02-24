@@ -1,1 +1,2 @@
 This is for creating a new canvas
+Added more functionalities like chatting with the bots directly from canvas
